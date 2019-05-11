@@ -2,7 +2,7 @@
 ________________
 
 
-This Test Case tests that a user is able to submit Lake Forest, CA in the search engine on https://redfin.com. It then checks that user can submit three filters: House, 1+ Baths, and Open House. Then it applies these filters and checks that they are successfull. When running the code message are returned to the console showing the logs. 
+This Test Case tests that a user is able to submit Lake Forest, CA in the search engine on https://redfin.com. It then checks that user can submit three filters: House, 1+ Baths, and Open House. Then it applies these filters and checks that they are successfully submitted. When running the code message are returned to the console showing the logs. 
 
 **Requirements**
 ________________
