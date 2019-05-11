@@ -18,6 +18,6 @@ ______________
 
 Make sure you are in the REDFIN MANAL folder. Run code like this:
 ```
-python Test_SearchWithFilters.py -chromedriver <path to chrom driver>
+python Test_SearchWithFilters.py -chromedriver <path to chrome driver on your machine>
 ```
 
